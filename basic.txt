@@ -1,1 +1,4 @@
 // Some basic Questions here
+1. Write a Java program to convert a decimal number to octal number.
+2. Write a Java program to convert a binary number to decimal number.
+3. Write a Java program and compute the sum of the digits of an integer.
